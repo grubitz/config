@@ -1,0 +1,6 @@
+[alias]
+	ch = checkout
+	co = commit
+	st = status
+	br = branch
+	start = "!git checkout master && git fetch --all && git merge --ff-only upstream/master && git push origin master"
