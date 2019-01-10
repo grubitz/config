@@ -1,0 +1,4 @@
+code --install-extension felixfbecker.php-intellisense
+code --install-extension onecentlin.laravel-blade
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension waderyan.gitblame
